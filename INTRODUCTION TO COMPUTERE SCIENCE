@@ -1,0 +1,19 @@
+INTRODUCTION TO COMPUTERE SCIENCE
+
+Most peoples see COMPUTER SCIENCE as the act of programming but I see COMPUTER SCIENCE as the act of SOLVING PROBLEMS. As a programmer/developer you master the craft of solving problems. We do this mostly by speaking computer language. I know some of you will be thinking I mean Javascript, Java, Python etc but I am actually talking about machine language. Computers only understand one language and it is not your Javascript or Java or Python or any other languages. They only understand one language and that is Machine language. This machine language uses binary to communicate (0's and 1's).
+
+Problems are solved using ALGORITHMS. Now the question will be What Is An Algorithm? Well, the simplest definition is a step and step instructions for solving a problem. When solving a problem, you have to assume the computer is really dumb. Let us actually face the truth. Computers are actually dumb. You will have to be precise when giving an instructions unlike humans that can actually read between the lines and know when to start and when to stop. Let me use an example so that you will understand better. The scenerio is going to be a human and the second is going to be a computer. Let us give a set of instructions to both a human and computer to ran to a finsih line and this is what is likely to happen.
+
+HUMAN (FIRST SCENERIO)
+- count to 3 and run to the finish line.
+Human will run to the finish line and instinctly stop.
+
+COMPUTER (SECOND SCENERIO)
+- count to 3 and run to the finish line.
+Computer will run to the finish line and won't stop. It will continue to run because it's algorithm didn't tell it when to stop. It will forever continue to run until the computer crashed.
+
+In other to stop the computer from running, you will have to be very precise. Now the COMPUTER SCENERIO should be something like this
+- count to 3 and run to the finish line.
+- when get to the finish line, stop.
+
+Now you see the difference between humans and computers.
